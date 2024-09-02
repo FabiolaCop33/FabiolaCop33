@@ -5,9 +5,9 @@
 </h4>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> • 
-  <a href="mailto:your.email@example.com">Email</a> • 
-  <a href="https://github.com/yourprofile">GitHub</a>
+  <a href="linkedin.com/in/fabiola-co-p">LinkedIn</a> • 
+  <a href="mailto:your.fabiolacorrea33@gmail.com">Email</a> • 
+  <a href="https://github.com/FabiolaCop33">GitHub</a>
 </p>
 
 ## Skills
