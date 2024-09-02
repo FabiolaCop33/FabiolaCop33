@@ -1,3 +1,4 @@
+![Alt text](https://github.com/FabiolaCop33/FabiolaCop33/blob/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center"><b>Hi , my name is Fabiola Correa Padilla </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h4 align="center">
   Aspiring iOS Developer passionate about building user-friendly mobile apps. Skilled in Swift, with a strong focus on problem-solving and delivering high-quality software. Excited to contribute to a collaborative and creative team while continuously enhancing my iOS development skills.
