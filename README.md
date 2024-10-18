@@ -1,7 +1,7 @@
 ![Alt text](https://github.com/FabiolaCop33/FabiolaCop33/blob/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner%20(1).png)
 <h1 align="center"><b>Hi , Wellcome! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h4 align="center">
-  I'm an iOS Developer passionate about building user-friendly mobile apps. Skilled in Swift, with a strong focus on problem-solving and delivering high-quality software. Excited to contribute to a collaborative and creative team while continuously enhancing my iOS development skills.
+  I'm an iOS and Backend Developer passionate about building user-friendly mobile apps. Skilled in Swift and Java, with a strong focus on problem-solving and delivering high-quality software. Excited to contribute to a collaborative and creative team while continuously enhancing my iOS  and backend development skills.
 </h4>
 
 <p align="center">
@@ -15,6 +15,8 @@
 - **Swift**
 - **Xcode**
 - **iOS Development**
+- **Java**
+- **Backend Development**
 - **Problem-Solving**
 - **User Experience Design**
 - **Git and Version Control**
